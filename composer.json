@@ -1,0 +1,9 @@
+{
+    "name": "wisebanyan-demo",
+    "require": {
+        "namshi/ab": "1.0.*"
+    },
+    "autoload": {
+        "classmap": ["lib"]
+    }
+}
